@@ -9,7 +9,7 @@ On my PC host developper (not the xaviere) :
 If i get the procedure   from nvidia  and i get and  install sdk manager
  sdkmanager_1.0.1-5538_amd64.deb
 
-![SDK Manager]('Capture du 2020-04-02 19-46-38.png')
+![SDK Manager](Capture%20du%202020-04-02%2019-46-38.png)
 
 
 Next boot of the system , i follow procedure 
