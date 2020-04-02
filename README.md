@@ -5,6 +5,19 @@ cd NVIDIA directory and launch of the installer
 next launch of ubuuntu 
 add of the french keyboard
 
+***** Go from 4 to 8 CPu heart *****
+CArefull in the robot could be good to stay low consommation (15W)
+
+nvidia@jetson-0420119097418:~$ sudo nvpmodel -q
+[sudo] password for nvidia: 
+NV Power Mode: MODE_15W
+2
+nvidia@jetson-0420119097418:~$ sudo nvpmodel -m 0
+nvidia@jetson-0420119097418:~$ sudo nvpmodel -q
+NV Power Mode: MAXN
+0
+******
+
 
 
 
