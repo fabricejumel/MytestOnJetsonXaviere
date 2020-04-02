@@ -6,6 +6,10 @@ next launch of ubuuntu
 add of the french keyboard
 
 
+
+
+**** Bad idea as to be done andevelopmment Pc not the xaviere itself*********
 If i get the procedure   from nvidia  and i get and  install sdk manager
 
 sudo apt install sdkmanager_1.0.1-5538_amd64.deb
+******
