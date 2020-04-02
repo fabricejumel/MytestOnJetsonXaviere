@@ -6,6 +6,7 @@ next launch of ubuuntu
 add of the french keyboard
 
 ***** Go from 4 to 8 CPu heart *****
+``` console
 CArefull in the robot could be good to stay low consommation (15W)
 
 nvidia@jetson-0420119097418:~$ sudo nvpmodel -q
@@ -17,8 +18,10 @@ nvidia@jetson-0420119097418:~$ sudo nvpmodel -q
 NV Power Mode: MAXN
 0
 ******
+```
 
-
+Insipration :
+https://www.jetsonhacks.com/2018/09/28/nvidia-jetson-agx-xavier-developer-kit/
 
 
 **** Bad idea as to be done andevelopmment Pc not the xaviere itself*********
