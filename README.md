@@ -1,4 +1,16 @@
+
+
+
+
 # MytestOnJetsonXaviere
+
+On my PC host developper (not the xaviere) :
+
+If i get the procedure   from nvidia  and i get and  install sdk manager
+ sdkmanager_1.0.1-5538_amd64.deb
+
+
+
 
 Next boot of the system , i follow procedure 
 cd NVIDIA directory and launch of the installer
@@ -24,8 +36,4 @@ Insipration :
 https://www.jetsonhacks.com/2018/09/28/nvidia-jetson-agx-xavier-developer-kit/
 
 
-**** Bad idea as to be done andevelopmment Pc not the xaviere itself*********
-If i get the procedure   from nvidia  and i get and  install sdk manager
 
-sudo apt install sdkmanager_1.0.1-5538_amd64.deb
-******
